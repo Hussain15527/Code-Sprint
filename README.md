@@ -11,6 +11,7 @@
 ### <h2 id="project-1"> Project 1</h2>
 
 Make a functional simple calculator  that resembles this:
+
 ![](https://lh3.googleusercontent.com/fbiCsY6HhC90i8Qidf_rDBDIvBYmn7wZVvLnclkMzgENOwK2j2qd7ZFRZQuni8GPJKJruIzK0sWAzmqFglwLPi12OOUExbkbcagbN15XTSU2OtlhZed8KYe4q_naeP-TfeUw442afLnPevGoSbGC4WA)
 
 *Note that the key should resemble exactly the same, If it doesn't function well you won't get a point*
