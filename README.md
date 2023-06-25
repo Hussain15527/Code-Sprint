@@ -22,6 +22,7 @@ Make a functional simple calculator  that resembles this:
 **Description:**
 
 Create a web application that allows users to manage their to-do lists. Users should be able to add new tasks, mark tasks as complete, delete tasks, and filter tasks based on their status (completed or pending). The application should provide a clean and intuitive user interface.
+
 ![](https://lh6.googleusercontent.com/XdVvpf5j2TZmsbGUjCO36orNVyWY1-KCqn57xyU3RCxW8O7BZN8wzQqNuuD-KqQ4Nu6xPWHDgDXQe5OAX2BYkYR1B6fGRZlxx8ZTNAanT_NjznqwhWlVilQMio7nBAhVk_kr9mZckQQY0kI56ulGlbQ)
 
 Key Features:
@@ -101,6 +102,7 @@ Total: **6 points**
  
  
  **UI requirement**
+ 
  ![enter image description here](https://i.ibb.co/sH704Hw/ui.png)
 ### <h2 id="project-5"> Project 5</h2>
 *Prerequisite: Basic web scraping*
