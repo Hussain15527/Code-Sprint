@@ -93,9 +93,11 @@ or
  6. Part of speech
 
 of any word the user enters.
+
 **Point allocation**:
 Each of the requirements carries 1 point:
 Total: **6 points**
+ 
  
  **UI requirement**
  ![enter image description here](https://i.ibb.co/sH704Hw/ui.png)
