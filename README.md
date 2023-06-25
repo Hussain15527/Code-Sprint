@@ -1,4 +1,5 @@
 
+
 ## 📖 List of projects
 
 - [Project 1](#project-1)
@@ -12,7 +13,10 @@
 Make a functional simple calculator  that resembles this:
 ![](https://lh3.googleusercontent.com/fbiCsY6HhC90i8Qidf_rDBDIvBYmn7wZVvLnclkMzgENOwK2j2qd7ZFRZQuni8GPJKJruIzK0sWAzmqFglwLPi12OOUExbkbcagbN15XTSU2OtlhZed8KYe4q_naeP-TfeUw442afLnPevGoSbGC4WA)
 
-*Note that the key should resemble exactly the same, If it doesn't function well you won't get a point,*
+*Note that the key should resemble exactly the same, If it doesn't function well you won't get a point*
+
+**Point allocation:**
+	2 points
 ### <h2 id="project-2"> Project 2</h2>
 **Description:**
 
@@ -45,7 +49,7 @@ Additional Features
 
   
 
-Points:
+**Point allocation:**
 
 - Setting up project structure and basic HTML/CSS layout: 1
 
